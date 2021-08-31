@@ -7,6 +7,8 @@ Importing,Updating,Inserting and Manipulating data ( Library books, Librarian de
 <h2><u>Use case-2:</u></h2>
 Importing, Updating, Inserting and Manipulating all data through 'MySQL Database'.
 <br>
+<br>
+<br>
 
 <ul>
   <li>Language	:   Python</li>
