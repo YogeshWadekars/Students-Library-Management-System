@@ -7,6 +7,14 @@ Importing,Updating,Inserting and Manipulating data ( Library books, Librarian de
 <h2><u>Use case-2:</u></h2>
 Importing, Updating, Inserting and Manipulating all data through 'MySQL Database'.
 <br>
+
+<ul>
+  <li>Language	:   Python</li>
+  <li>Libraries : 	mysql , pandas , datetime</li>
+  <li>Data Source  :  MySQL Database , MS-Excel
+  <li>IDE used  : 	Visual Studio Code</li>
+</ul>
+
 <br>
 
 <h1>Description</h1>
