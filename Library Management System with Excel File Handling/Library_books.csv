@@ -1,0 +1,212 @@
+Book ID,Book Name,Author,Genre,SubGenre
+101,Fundamentals of Wavelets,"Goswami, Jaideva",tech,signal_processing
+102,Data Smart,"Foreman, John",tech,data_science
+103,God Created the Integers,"Hawking, Stephen",tech,mathematics
+104,Superfreakonomics,"Dubner, Stephen",science,economics
+105,Orientalism,"Said, Edward",nonfiction,history
+106,"Nature of Statistical Learning Theory, The","Vapnik, Vladimir",tech,data_science
+107,Integration of the Indian States,"Menon, V P",nonfiction,history
+108,"Drunkards Walk, The","Mlodinow, Leonard",science,mathematics
+109,Image Processing & Mathematical Morphology,"Shih, Frank",tech,signal_processing
+110,How to Think Like Sherlock Holmes,"Konnikova, Maria",nonfiction,psychology
+111,Data Scientists at Work,Sebastian Gutierrez,tech,data_science
+112,Slaughterhouse Five,"Vonnegut, Kurt",fiction,classic
+113,Birth of a Theorem,"Villani, Cedric",science,mathematics
+114,Structure & Interpretation of Computer Programs,"Sussman, Gerald",tech,computer_science
+115,"Age of Wrath, The","Eraly, Abraham",nonfiction,history
+116,"Trial, The","Kafka, Frank",fiction,classic
+117,Statistical Decision Theory,"Pratt, John",tech,data_science
+118,Data Mining Handbook,"Nisbet, Robert",tech,data_science
+119,"New Machiavelli, The","Wells, H. G.",fiction,novel
+120,Physics & Philosophy,"Heisenberg, Werner",philosophy,science
+121,Making Software,"Oram, Andy",tech,computer_science
+122,"Analysis, Vol I","Tao, Terence",tech,mathematics
+123,Machine Learning for Hackers,"Conway, Drew",tech,data_science
+124,"Signal and the Noise, The","Silver, Nate",tech,data_science
+125,Python for Data Analysis,"McKinney, Wes",tech,data_science
+126,Introduction to Algorithms,"Cormen, Thomas",tech,computer_science
+127,"Beautiful and the Damned, The","Deb, Siddhartha",nonfiction,history
+128,"Outsider, The","Camus, Albert",fiction,classic
+129,"Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",fiction,classic
+130,"Complete Sherlock Holmes, The - Vol II","Doyle, Arthur Conan",fiction,classic
+131,"Wealth of Nations, The","Smith, Adam",science,economics
+132,"Pillars of the Earth, The","Follett, Ken",fiction,novel
+133,Mein Kampf,"Hitler, Adolf",nonfiction,autobiography
+134,"Tao of Physics, The","Capra, Fritjof",science,physics
+135,Surely Youre Joking Mr Feynman,"Feynman, Richard",science,physics
+136,"Farewell to Arms, A","Hemingway, Ernest",fiction,classic
+137,"Veteran, The","Forsyth, Frederick",fiction,novel
+138,False Impressions,"Archer, Jeffery",fiction,novel
+139,"Last Lecture, The","Pausch, Randy",nonfiction,autobiography
+140,Return of the Primitive,"Rand, Ayn",philosophy,objectivism
+141,Jurassic Park,"Crichton, Michael",fiction,novel
+142,"Russian Journal, A","Steinbeck, John",nonfiction,history
+143,Tales of Mystery and Imagination,"Poe, Edgar Allen",fiction,classic
+144,Freakonomics,"Dubner, Stephen",science,economics
+145,"Hidden Connections, The","Capra, Fritjof",science,physics
+146,"Story of Philosophy, The","Durant, Will",philosophy,history
+147,Asami Asami,"Deshpande, P L",fiction,novel
+148,Journal of a Novel,"Steinbeck, John",fiction,classic
+149,Once There Was a War,"Steinbeck, John",nonfiction,history
+150,"Moon is Down, The","Steinbeck, John",fiction,classic
+151,"Brethren, The","Grisham, John",fiction,novel
+152,In a Free State,"Naipaul, V. S.",fiction,novel
+153,Catch 22,"Heller, Joseph",fiction,classic
+154,"Complete Mastermind, The",BBC,nonfiction,trivia
+155,Dylan on Dylan,"Dylan, Bob",nonfiction,autobiography
+156,Soft Computing & Intelligent Systems,"Gupta, Madan",tech,data_science
+157,Textbook of Economic Theory,"Stonier, Alfred",tech,economics
+158,Econometric Analysis,"Greene, W. H.",tech,economics
+159,Learning OpenCV,"Bradsky, Gary",tech,signal_processing
+160,Data Structures Using C & C++,"Tanenbaum, Andrew",tech,computer_science
+161,"Computer Vision, A Modern Approach","Forsyth, David",tech,signal_processing
+162,Principles of Communication Systems,"Taub, Schilling",tech,signal_processing
+163,Let Us C,"Kanetkar, Yashwant",tech,computer_science
+164,"Amulet of Samarkand, The","Stroud, Jonathan",fiction,novel
+165,Crime and Punishment,"Dostoevsky, Fyodor",fiction,classic
+166,Angels & Demons,"Brown, Dan",fiction,novel
+167,"Argumentative Indian, The","Sen, Amartya",nonfiction,history
+168,Sea of Poppies,"Ghosh, Amitav",fiction,novel
+169,"Idea of Justice, The","Sen, Amartya",philosophy,economics
+170,"Raisin in the Sun, A","Hansberry, Lorraine",fiction,novel
+171,All the Presidents Men,"Woodward, Bob",nonfiction,history
+172,"Prisoner of Birth, A","Archer, Jeffery",fiction,novel
+173,Scoop!,"Nayar, Kuldip",nonfiction,history
+174,Ahe Manohar Tari,"Deshpande, Sunita",nonfiction,autobiography
+175,"Last Mughal, The","Dalrymple, William",nonfiction,history
+176,"Social Choice & Welfare, Vol 39 No. 1",Various,tech,economics
+177,Radiowaril Bhashane & Shrutika,"Deshpande, P L",nonfiction,misc
+178,Gun Gayin Awadi,"Deshpande, P L",nonfiction,misc
+179,Aghal Paghal,"Deshpande, P L",nonfiction,misc
+180,Maqta-e-Ghalib,"Garg, Sanjay",nonfiction,poetry
+181,Beyond Degrees,,philosophy,education
+182,Manasa,"Kale, V P",nonfiction,misc
+183,India from Midnight to Milennium,"Tharoor, Shashi",nonfiction,history
+184,"Worlds Greatest Trials, The",,nonfiction,history
+185,"Great Indian Novel, The","Tharoor, Shashi",fiction,novel
+186,O Jerusalem!,"Lapierre, Dominique",nonfiction,history
+187,"City of Joy, The","Lapierre, Dominique",fiction,novel
+188,Freedom at Midnight,"Lapierre, Dominique",nonfiction,history
+189,"Winter of Our Discontent, The","Steinbeck, John",fiction,classic
+190,On Education,"Russell, Bertrand",philosophy,education
+191,Free Will,"Harris, Sam",nonfiction,psychology
+192,Bookless in Baghdad,"Tharoor, Shashi",nonfiction,history
+193,"Case of the Lame Canary, The","Gardner, Earle Stanley",fiction,novel
+194,"Theory of Everything, The","Hawking, Stephen",science,physics
+195,New Markets & Other Essays,"Drucker, Peter",science,economics
+196,Electric Universe,"Bodanis, David",science,physics
+197,"Hunchback of Notre Dame, The","Hugo, Victor",fiction,classic
+198,Burning Bright,"Steinbeck, John",fiction,classic
+199,"Age of Discontuinity, The","Drucker, Peter",nonfiction,economics
+200,Doctor in the Nude,"Gordon, Richard",fiction,novel
+201,Down and Out in Paris & London,"Orwell, George",nonfiction,autobiography
+202,Identity & Violence,"Sen, Amartya",philosophy,philosophy
+203,Beyond the Three Seas,"Dalrymple, William",nonfiction,history
+204,"Worlds Greatest Short Stories, The",,fiction,classic
+205,Talking Straight,"Iacoca, Lee",nonfiction,autobiography
+206,"Maughams Collected Short Stories, Vol 3","Maugham, William S",fiction,classic
+207,"Phantom of Manhattan, The","Forsyth, Frederick",fiction,classic
+208,Ashenden of The British Agent,"Maugham, William S",fiction,classic
+209,Zen & The Art of Motorcycle Maintenance,"Pirsig, Robert",philosophy,autobiography
+210,"Great War for Civilization, The","Fisk, Robert",nonfiction,history
+211,We the Living,"Rand, Ayn",fiction,novel
+212,"Artist and the Mathematician, The","Aczel, Amir",science,mathematics
+213,History of Western Philosophy,"Russell, Bertrand",philosophy,philosophy
+214,Selected Short Stories,,fiction,classic
+215,Rationality & Freedom,"Sen, Amartya",science,economics
+216,Clash of Civilizations and Remaking of the World Order,"Huntington, Samuel",nonfiction,history
+217,Uncommon Wisdom,"Capra, Fritjof",nonfiction,anthology
+218,One,"Bach, Richard",nonfiction,autobiography
+219,Karl Marx Biography,,nonfiction,autobiography
+220,To Sir With Love,Braithwaite,fiction,classic
+221,Half A Life,"Naipaul, V S",fiction,novel
+222,"Discovery of India, The","Nehru, Jawaharlal",nonfiction,history
+223,Apulki,"Deshpande, P L",nonfiction,misc
+224,Unpopular Essays,"Russell, Bertrand",philosophy,philosophy
+225,"Deceiver, The","Forsyth, Frederick",fiction,novel
+226,Veil: Secret Wars of the CIA,"Woodward, Bob",nonfiction,history
+227,Char Shabda,"Deshpande, P L",nonfiction,misc
+228,Rosy is My Relative,"Durrell, Gerald",fiction,novel
+229,"Moon and Sixpence, The","Maugham, William S",fiction,classic
+230,Political Philosophers,,philosophy,politics
+231,"Short History of the World, A","Wells, H G",nonfiction,history
+232,"Trembling of a Leaf, The","Maugham, William S",fiction,novel
+233,Doctor on the Brain,"Gordon, Richard",fiction,novel
+234,Simpsons & Their Mathematical Secrets,"Singh, Simon",science,mathematics
+235,Pattern Classification,"Duda, Hart",tech,data_science
+236,From Beirut to Jerusalem,"Friedman, Thomas",nonfiction,history
+237,"Code Book, The","Singh, Simon",science,mathematics
+238,"Age of the Warrior, The","Fisk, Robert",nonfiction,history
+239,Final Crisis,,fiction,comic
+240,"Killing Joke, The",,fiction,comic
+241,Flashpoint,,fiction,comic
+242,Batman Earth One,,fiction,comic
+243,Crisis on Infinite Earths,,fiction,comic
+244,"Numbers Behind Numb3rs, The","Devlin, Keith",science,mathematics
+245,Superman Earth One - 1,,fiction,comic
+246,Superman Earth One - 2,,fiction,comic
+247,Justice League: Throne of Atlantis,,fiction,comic
+248,Justice League: The Villains Journey,,fiction,comic
+249,"Death of Superman, The",,fiction,comic
+250,History of the DC Universe,,fiction,comic
+251,Batman: The Long Halloween,,fiction,comic
+252,"Life in Letters, A","Steinbeck, John",nonfiction,autobiography
+253,"Information, The","Gleick, James",science,mathematics
+254,"Journal of Economics, vol 106 No 3",,science,economics
+255,Elements of Information Theory,"Thomas, Joy",tech,signal_processing
+256,Power Electronics - Rashid,"Rashid, Muhammad",tech,computer_science
+257,Power Electronics - Mohan,"Mohan, Ned",tech,computer_science
+258,Neural Networks,"Haykin, Simon",tech,data_science
+259,"Grapes of Wrath, The","Steinbeck, John",fiction,classic
+260,Vyakti ani Valli,"Deshpande, P L",nonfiction,misc
+261,Statistical Learning Theory,"Vapnik, Vladimir",tech,data_science
+262,Empire of the Mughal - The Tainted Throne,"Rutherford, Alex",nonfiction,history
+263,Empire of the Mughal - Brothers at War,"Rutherford, Alex",nonfiction,history
+264,Empire of the Mughal - Ruler of the World,"Rutherford, Alex",nonfiction,history
+265,Empire of the Mughal - The Serpents Tooth,"Rutherford, Alex",nonfiction,history
+266,Empire of the Mughal - Raiders from the North,"Rutherford, Alex",nonfiction,history
+267,Mossad,"Baz-Zohar, Michael",nonfiction,history
+268,Jim Corbett Omnibus,"Corbett, Jim",nonfiction,history
+269,20000 Leagues Under the Sea,"Verne, Jules",fiction,novel
+270,Batatyachi Chal,Deshpande P L,fiction,novel
+271,Hafasavnuk,Deshpande P L,fiction,novel
+272,Urlasurla,Deshpande P L,fiction,novel
+273,Pointers in C,"Kanetkar, Yashwant",tech,computer_science
+274,"Cathedral and the Bazaar, The","Raymond, Eric",tech,computer_science
+275,Design with OpAmps,"Franco, Sergio",tech,computer_science
+276,Think Complexity,"Downey, Allen",tech,data_science
+277,"Devils Advocate, The","West, Morris",fiction,novel
+278,Ayn Rand Answers,"Rand, Ayn",philosophy,objectivism
+279,Philosophy: Who Needs It,"Rand, Ayn",philosophy,objectivism
+280,"Worlds Great Thinkers, The",,science,physics
+281,Data Analysis with Open Source Tools,"Janert, Phillip",tech,data_science
+282,Brocas Brain,"Sagan, Carl",science,physics
+283,Men of Mathematics,"Bell, E T",science,mathematics
+284,Oxford book of Modern Science Writing,"Dawkins, Richard",science,science
+285,"Justice, Judiciary and Democracy","Ranjan, Sudhanshu",nonfiction,legal
+286,"Arthashastra, The",Kautiyla,philosophy,philosophy
+287,We the People,Palkhivala,philosophy,philosophy
+288,We the Nation,Palkhivala,philosophy,philosophy
+289,"Courtroom Genius, The",Sorabjee,nonfiction,autobiography
+290,Dongri to Dubai,"Zaidi, Hussain",nonfiction,history
+291,"History of England, Foundation","Ackroyd, Peter",nonfiction,history
+292,City of Djinns,"Dalrymple, William",nonfiction,history
+293,Indias Legal System,Nariman,nonfiction,legal
+294,More Tears to Cry,"Sassoon, Jean",fiction,novel
+295,"Ropemaker, The","Dickinson, Peter",fiction,novel
+296,Angels & Demons,"Brown, Dan",fiction,novel
+297,"Judge, The",,fiction,novel
+298,"Attorney, The",,fiction,novel
+299,"Prince, The",Machiavelli,fiction,classic
+300,Eyeless in Gaza,"Huxley, Aldous",fiction,novel
+301,Tales of Beedle the Bard,"Rowling, J K",fiction,novel
+302,Girl with the Dragon Tattoo,"Larsson, Steig",fiction,novel
+303,Girl who kicked the Hornets Nest,"Larsson, Steig",fiction,novel
+304,Girl who played with Fire,"Larsson, Steig",fiction,novel
+305,Batman Handbook,,fiction,comic
+306,Murphys Law,,philosophy,psychology
+307,Structure and Randomness,"Tao, Terence",science,mathematics
+308,Image Processing with MATLAB,"Eddins, Steve",tech,signal_processing
+309,Animal Farm,"Orwell, George",fiction,classic
+310,"Idiot, The","Dostoevsky, Fyodor",fiction,classic
+311,"Christmas Carol, A","Dickens, Charles",fiction,classic
