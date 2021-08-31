@@ -1,0 +1,74 @@
+
+
+student login:(csv file or sql database) having all students details
+    Id
+    pass
+    then login
+
+    after login:
+        1.visit library
+        2.change password
+        3.logout
+
+        1.visit library:
+            1.Borrow book
+            2.return book
+            3.view Fine(late charges in Rs)
+            4.back
+
+        2.logout:
+            back to login
+
+    ask for login again
+    or
+    exit
+
+
+
+
+
+
+
+sql database:
+
+    create database "Library_management"
+    
+        tables:
+
+                1.library_books:
+                        Book ID,
+                        Book Name,
+                        Author,
+                        Genre,
+                        SubGenre
+
+               2.borrowed_books
+                       Book ID,
+                       Student ID,
+                       Book Name,
+                       Borrowed Date
+
+               3.returned_books
+                       Book ID,
+                       Student ID,
+                       Book Name,
+                       Returned Date
+
+               4.login_details
+                        Roll No,
+                        Name,
+                        Password
+
+                5.Fine
+                        student ID,
+                        Name,
+                        total fine
+
+                        
+
+
+
+
+
+
+
